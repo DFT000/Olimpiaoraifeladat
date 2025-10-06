@@ -1,5 +1,6 @@
 # 🚀 OlimpiaGUI
-
+## 📌 Információk
+**A projekt net9.0 keretrendszerben készült**
 ## ⚠️ **Fontos megjegyzés: Ideiglenes megoldás**
 
 > **⚠️ Figyelem:** A projekt jelenlegi verziójában az alábbi rész **ideiglenes megoldással** működik.  
