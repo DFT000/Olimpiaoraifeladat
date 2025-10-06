@@ -1,0 +1,37 @@
+<Window x:Class="Olimpiaoraifeladat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Olimpiaoraifeladat" Height="600" Width="1000">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,6">
+            <Button x:Name="btnLoad" Content="Beolvasás" Width="100" Margin="0,0,6,0" Click="BtnLoad_Click"/>
+            <Button x:Name="btnShowAll" Content="Mutat minden adat" Width="140" Margin="0,0,6,0" Click="BtnShowAll_Click"/>
+            <Button x:Name="btnReset" Content="Visszaállít" Width="100" Margin="0,0,6,0" Click="BtnReset_Click"/>
+            <Button x:Name="btnShowCounts" Content="Statisztika (össz, HUN, %)" Width="220" Margin="0,0,6,0" Click="BtnShowCounts_Click"/>
+            <Button x:Name="btnUSAAvg" Content="USA átlag pont" Width="120" Margin="0,0,6,0" Click="BtnUSAAvg_Click"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="0,0,0,6">
+            <Button x:Name="btnLatestYear" Content="Legutóbbi év és versenyzők" Width="220" Margin="0,0,6,0" Click="BtnLatestYear_Click"/>
+            <Label Content="Sport részlet:" VerticalAlignment="Center" Margin="10,0,4,0"/>
+            <TextBox x:Name="txtSportSearch" Width="160" VerticalAlignment="Center"/>
+            <Button x:Name="btnSearchSport" Content="Sport keresés" Width="120" Margin="6,0,6,0" Click="BtnSearchSport_Click"/>
+            <Button x:Name="btnAggregateCountries" Content="Országok pontösszeg (rendezve)" Width="260" Click="BtnAggregateCountries_Click"/>
+        </StackPanel>
+        <DataGrid x:Name="dgRecords" Grid.Row="2" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Év" Binding="{Binding Ev}" Width="60"/>
+                <DataGridTextColumn Header="Név" Binding="{Binding Nev}" Width="*"/>
+                <DataGridTextColumn Header="Ország" Binding="{Binding Orszag}" Width="80"/>
+                <DataGridTextColumn Header="Sportág" Binding="{Binding Sportag}" Width="200"/>
+                <DataGridTextColumn Header="Pont" Binding="{Binding Pont}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBlock x:Name="tbStatus" Grid.Row="3" Margin="0,8,0,0" Text="Állapot: kész."/>
+    </Grid>
+</Window>

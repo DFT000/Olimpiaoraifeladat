@@ -1,0 +1,1004 @@
+év;név;ország;sportág;helyezés
+2012;Mitchell WATT;AUS;távolugrás;2
+1900;Patrick Joseph LEAHY;GBR;magasugrás;2
+1932;Paul WINTER;FRA;diszkoszvetés;1
+1920;Armas Rudolf TAIPALE;FIN;diszkoszvetés;2
+1996;Inna LASOVSKAYA;RUS;hármasugrás;2
+2012;Sandra PERKOVIC;CRO;diszkoszvetés;1
+1988;Lawrence Ellwyne MYRICKS;USA;távolugrás;1
+1928;Vilho Immanuel TUULOS;FIN;hármasugrás;1
+1960;Richard Lee COCHRAN;USA;diszkoszvetés;1
+1980;Yaak UUDMAE;URS;hármasugrás;1
+1988;Beate KOCH;GDR;gerelyhajítás;1
+1922;Donald Robert LAZ;USA;rúdugrás;2
+1900;Irving BAXTER;USA;helyből magasugrás;2
+1936;John Patrick METCALFE;AUS;hármasugrás;1
+2000;Osleidys MENENDEZ;CUB;gerelyhajítás;1
+1980;Jörg FREIMUTH;GDR;magasugrás;1
+1981;Teresa SANDERSON;GBR;gerelyhajítás;1
+1920;Frans Wilhelmi PÖRHÖLÄ;FIN;súlylökés;1
+1901;Meyer PRINSTEIN;USA;hármasugrás;1
+2001;Danila BURKENYA;RUS;hármasugrás;1
+1918;Kaj Tapio RAUTAVAARA;FIN;gerelyhajítás;1
+1912;Georg ABERG;SWE;távolugrás;1
+1922;William Preston MILLER;USA;gerelyhajítás;2
+1980;Margitta DROESE-PUFE;GDR;súlylökés;1
+1960;Gergely KULCSAR;HUN;gerelyhajítás;1
+1992;Roberto S, MOYA;CUB;diszkoszvetés;1
+2012;Barbora SPOTAKOVA;CZE;gerelyhajítás;1
+1961;Tamara PRESS;URS;súlylökés;1
+2008;Tatyana LEBEDEVA;RUS;hármasugrás;2
+1968;Jolan KLEIBER-KONTSEK;HUN;diszkoszvetés;1
+1988;Petra FELKE-MEIER;GDR;gerelyhajítás;1
+1912;Emil MAGNUSSON;SWE;kétkezes diszkoszvetés;1
+1900;John Jesus FLANAGAN;USA;kalapácsvetés;1
+1921;Glenn HARTRANFT;USA;súlylökés;2
+1960;Jaroslawa JOZWIAKOWSKA-BIEDA;POL;magasugrás;1
+1912;Konstantinos TSICLITIRAS;GRE;helyből magasugrás;1
+1960;William Patrick Jr, O'Brien;USA;súlylökés;2
+2000;Abderrahmane HAMMAD;ALG;magasugrás;1
+1922;Imre NEMETH;HUN;kalapácsvetés;1
+2000;Javier SOTOMAYOR;CUB;magasugrás;2
+1908;Bruno SÖDERSTRÖM;SWE;rúdugrás;1
+1920;Henry PETERSEN;DEN;rúdugrás;2
+1980;Jacek WSZOLA;POL;magasugrás;2
+1988;Sergey BUBKA;URS;rúdugrás;1
+2012;Primoz KOZMUS;SLO;kalapácsvetés;2
+1908;Marquis Franklin HORR;USA;diszkoszvetés;1
+1912;Mor KOVACS;HUN;gerelyhajítás;1
+2008;Francoise MBANGO ETONE;CMR;hármasugrás;1
+2012;Ivan UKHOV;RUS;magasugrás;1
+1921;Leroy Taylor BROWN;USA;magasugrás;2
+1928;Erik H, LUNDQVIST;SWE;gerelyhajítás;1
+2012;Koji MUROFUSHI;JPN;kalapácsvetés;1
+2008;Maria ABAKUMOVA;RUS;gerelyhajítás;2
+1992;Karen FORKEL;GER;gerelyhajítás;1
+1916;Joao Carlos DE OLIVEIRA;BRA;hármasugrás;1
+1988;Yuri SEDYKH;URS;kalapácsvetés;2
+1981;Carl LEWIS;USA;távolugrás;1
+1920;Richmond LANDON;USA;magasugrás;1
+1900;Ray EWRY;USA;helyből hármasugrás;1
+1922;James Leo DILLION;USA;diszkoszvetés;1
+2008;Andrei MIKHNEVICH;BLR;súlylökés;1
+1908;Ray EWRY;USA;helyből magasugrás;1
+1980;Frank PASCHEK;GDR;távolugrás;2
+2000;Kirsten MUENCHOW;GER;kalapácsvetés;1
+1918;Amelia PICCININI;ITA;súlylökés;2
+1922;Odon FOLDESSY;HUN;távolugrás;1
+1922;Esther Cornelia BRAND;RSA;magasugrás;1
+1920;Elmer Konstantin NIKLANDER;FIN;súlylökés;2
+1901;Paul WEINSTEIN;GER;magasugrás;1
+2001;Olga KUZENKOVA;RUS;kalapácsvetés;1
+1912;Juho Julius SAARISTO;FIN;gerelyhajítás;2
+1961;Jozef SCHMIDT;POL;hármasugrás;1
+1912;Eric LEMMING;SWE;gerelyhajítás;1
+2008;Blessing OKAGBARE;NGR;távolugrás;1
+1961;Lynn DAVIES;GBR;távolugrás;1
+1920;Patrick RYAN;USA;kalapácsvetés;1
+1926;Alfred OERTER;USA;diszkoszvetés;1
+1936;Shuhei NISHIDA;JPN;rúdugrás;2
+1916;Yuri SEDYKH;URS;kalapácsvetés;1
+1916;David Luther ROBERTS;USA;rúdugrás;1
+2008;Barbora SPOTAKOVA;CZE;gerelyhajítás;1
+1900;Irving BAXTER;USA;helyből távolugrás;2
+2001;Joan Lino MARTINEZ;ESP;távolugrás;1
+1916;Ruth FUCHS;GDR;gerelyhajítás;1
+1912;Klaus WOLFERMANN;FRG;gerelyhajítás;1
+1988;Jackie JOYNER-KERSEE;USA;távolugrás;1
+1912;Vassilka STOEVA;BUL;diszkoszvetés;1
+2008;Yarelys BARRIOS;CUB;diszkoszvetés;2
+1912;Duncan GILLIS;CAN;kalapácsvetés;2
+1901;Robert STANGLAND;USA;hármasugrás;1
+1988;Galina CHISTYAKOVA;URS;távolugrás;1
+1996;Artur PARTYKA;POL;magasugrás;2
+1936;Masao HARADA;JPN;hármasugrás;2
+1912;Platt ADAMS;USA;helyből magasugrás;1
+1900;Robert GARRETT;USA;helyből hármasugrás;1
+1932;Peter Timothy ZAREMBA;USA;kalapácsvetés;1
+2001;Vadims VASILEVSKIS;LAT;gerelyhajítás;2
+1981;Dietmar MÖGENBURG;FRG;magasugrás;1
+1996;Seppo Henrik RATY;FIN;gerelyhajítás;1
+1932;John Franklin ANDERSON;USA;diszkoszvetés;1
+2012;Renaud LAVILLENIE;FRA;rúdugrás;1
+1968;Gergely KULCSAR;HUN;gerelyhajítás;1
+1996;Louise MCPAUL;AUS;gerelyhajítás;2
+1996;Charles AUSTIN;USA;magasugrás;1
+1926;Thelma Elizabeth HOPKINS;GBR;magasugrás;2
+1980;Yuri TAMM;URS;kalapácsvetés;1
+1921;Harold Marion OSBORN;USA;magasugrás;1
+1932;George G, JEFFERSON;USA;rúdugrás;1
+1992;Jan ZELEZNY;TCH;gerelyhajítás;1
+1981;Malcolm Maurice WILKINS;USA;diszkoszvetés;2
+1968;Margitta HELMBOLD-GUMMEL;GDR;súlylökés;1
+2008;Leevan SANDS;BAH;hármasugrás;1
+1916;Malcolm Maurice WILKINS;USA;diszkoszvetés;1
+1912;William HALPENNY;CAN;rúdugrás;1
+1968;Mihaela PENES;ROU;gerelyhajítás;2
+1912;Ruth FUCHS;GDR;gerelyhajítás;1
+2001;Sergey MAKAROV;RUS;gerelyhajítás;1
+1896;Ellery CLARK;USA;magasugrás;1
+1936;Giorgio OBERWEGER;ITA;diszkoszvetés;1
+2012;Krisztian PARS;HUN;kalapácsvetés;1
+1981;Karl-Hans RIEHM;FRG;kalapácsvetés;2
+1988;Carl LEWIS;USA;távolugrás;1
+2008;Yaroslav RYBAKOV;RUS;magasugrás;1
+1968;Edward J, Jr, CARUTHERS;USA;magasugrás;2
+1988;Rudolf POVARNITSIN;URS;magasugrás;1
+1921;Lemuel Clarence HOUSER;USA;diszkoszvetés;1
+1960;Elvira OZOLINA;URS;gerelyhajítás;1
+1912;Erik ALMLÖF;SWE;hármasugrás;1
+1926;Vilhjalmur EINARSSON;ISL;hármasugrás;2
+1922;Aleksandra CHUDINA;URS;magasugrás;1
+1981;Giovanni EVANGELISTI;ITA;távolugrás;1
+1896;Georgios PAPASIDERIS;GRE;súlylökés;1
+1900;Richard SHELDON;USA;diszkoszvetés;1
+1968;Antonina OKOROKOVA-LAZAREVA;URS;magasugrás;2
+1918;Robert Howard BENNETT;USA;kalapácsvetés;1
+1908;Marquis Franklin HORR;USA;klasszikus stílusú diszkoszvetés;2
+1912;Jochen SACHSE;GDR;kalapácsvetés;2
+1992;Steve BACKLEY;GBR;gerelyhajítás;1
+1901;John Jesus FLANAGAN;USA;kalapácsvetés;1
+1961;Dallas Crutcher III LONG;USA;súlylökés;1
+1916;Ivanka Mikailova CHRISTOVA-TODOROVA;BUL;súlylökés;1
+1912;Benjamin W, ADAMS;USA;helyből magasugrás;2
+1980;Konstantin VOLKOV;URS;rúdugrás;2
+2000;Szymon ZIOLKOWSKI;POL;kalapácsvetés;1
+1981;Fatima WHITBREAD;GBR;gerelyhajítás;1
+1961;Lia MANOLIU;ROU;diszkoszvetés;1
+1921;Matthew J, MCGRATH;USA;kalapácsvetés;2
+1961;Yanis LUSIS;URS;gerelyhajítás;1
+2001;Tatyana LEBEDEVA;RUS;távolugrás;1
+1936;Paula MOLLENHAUER;GER;diszkoszvetés;1
+1992;Joanet QUINTERO;CUB;magasugrás;1
+1932;Eva DAWES-SPINKS;CAN;magasugrás;1
+1926;Galina ZYBINA;URS;súlylökés;2
+1908;Werner JÄRVINEN;FIN;klasszikus stílusú diszkoszvetés;1
+1992;Charles SIMPKINS;USA;hármasugrás;2
+1908;Alfred Carleten GILBERT;USA;rúdugrás;1
+2008;Denys YURCHENKO;UKR;rúdugrás;1
+2000;Igor ASTAPKOVICH;BLR;kalapácsvetés;1
+1908;Arne HALSE;NOR;szabad stílusú gerelyhajítás;1
+1960;Iolanda BALAS;ROU;magasugrás;1
+2008;Steve HOOKER;AUS;rúdugrás;1
+1961;David Lawson WEILL;USA;diszkoszvetés;1
+1960;Vitold KREER;URS;hármasugrás;1
+1980;Wladyslaw KOZAKIEWICZ;POL;rúdugrás;1
+1912;Laurence Atwood WHITNEY;USA;súlylökés;1
+1992;Mike CONLEY;USA;hármasugrás;1
+2008;Nadzeya OSTAPCHUK;BLR;súlylökés;1
+2001;Dwight PHILLIPS;USA;távolugrás;1
+1981;Pierre QUINON;FRA;rúdugrás;1
+1926;William Henry NIEDER;USA;súlylökés;2
+2012;Robert HARTING;GER;diszkoszvetés;1
+1980;Yuri SEDYKH;URS;kalapácsvetés;1
+1908;Georges ANDRE;FRA;magasugrás;2
+1932;Patrick O'CALLAGHAN;IRL;kalapácsvetés;1
+1996;Jan ZELEZNY;CZE;gerelyhajítás;1
+1996;Fiona MAY;ITA;távolugrás;2
+1922;Dana INGROVA-ZATOPKOVA;TCH;gerelyhajítás;1
+2001;Steffi NERIUS;GER;gerelyhajítás;2
+1912;Juho Julius SAARISTO;FIN;kétkezes gerelyhajítás;1
+2000;Vala FLOSADOTTIR;ISL;rúdugrás;1
+1901;Ray EWRY;USA;helyből távolugrás;1
+1926;Mikhail KRIVONOSOV;URS;kalapácsvetés;2
+1922;Walter Francis DAVIS;USA;magasugrás;1
+2012;Linda STAHL;GER;gerelyhajítás;1
+2000;Tatyana LEBEDEVA;RUS;hármasugrás;2
+2001;Yunaika CRAWFORD;CUB;kalapácsvetés;1
+1988;Tamara BYKOVA;URS;magasugrás;1
+1918;George Anthony STANICH;USA;magasugrás;1
+1960;Gyula ZSIVOTZKY;HUN;kalapácsvetés;2
+1908;Dennis HORGAN;GBR;súlylökés;2
+1912;James Henry DUNCAN;USA;diszkoszvetés;1
+1981;Rolf DANNEBERG;FRG;diszkoszvetés;1
+1932;Charles Lambert REDD;USA;távolugrás;2
+1981;Susan HEARNSHAW;GBR;távolugrás;1
+1900;Irving BAXTER;USA;magasugrás;1
+1900;Meredith Bright COLKETT;USA;rúdugrás;2
+1980;Tatiana LESOVAIA;URS;diszkoszvetés;1
+1932;Matti Henrik JARVINEN;FIN;gerelyhajítás;1
+1901;Lawrence E, Joseph FEUERBACH;USA;súlylökés;1
+1916;Tadeusz SLUSARSKI;POL;rúdugrás;1
+1961;John Barnett RAMBO;USA;magasugrás;1
+1932;Shuhei NISHIDA;JPN;rúdugrás;2
+2000;Kamila SKOLIMOWSKA;POL;kalapácsvetés;1
+1908;Timoty J, AHEARNE;GBR;hármasugrás;1
+1922;Galina ZYBINA;URS;súlylökés;1
+1961;Galina ZYBINA;URS;súlylökés;1
+1981;Sara SIMEONI;ITA;magasugrás;2
+1961;Mary Denise BIGNAL-RAND;GBR;távolugrás;1
+1992;Tzvetanka Pavlova KHRISTOVA;BUL;diszkoszvetés;2
+1981;Thierry VIGNERON;FRA;rúdugrás;1
+1988;Ulf TIMMERMANN;GDR;súlylökés;1
+1922;Toivo Armas HYYTIÄINEN;FIN;gerelyhajítás;1
+1980;Aleksandr MAKAROV;URS;gerelyhajítás;2
+1912;Jaqueline TODTEN-HEIN;GDR;gerelyhajítás;2
+1922;Adolfo CONSOLINI;ITA;diszkoszvetés;2
+1960;Hildrun CLAUS-LAUFER;EUA;távolugrás;1
+1912;Wolfgang NORDWIG;GDR;rúdugrás;1
+1922;Sheila LERWILL;GBR;magasugrás;2
+1922;Jerome Cousins BIFFLE;USA;távolugrás;1
+1926;Vitold KREER;URS;hármasugrás;1
+1901;Ralph ROSE;USA;diszkoszvetés;2
+1922;Simeon Garland INESS;USA;diszkoszvetés;1
+1912;Väinö SIIKANIEMI;FIN;kétkezes gerelyhajítás;2
+1896;James CONNOLLY;USA;magasugrás;2
+1908;Konstantinos TSICLITIRAS;GRE;helyből távolugrás;2
+1980;Vladimir KISELEV;URS;súlylökés;1
+1968;Tatyana TALYSHEVA;URS;távolugrás;1
+1996;Steve BACKLEY;GBR;gerelyhajítás;2
+2008;Stephanie BROWN TRAFTON;USA;diszkoszvetés;1
+1996;Jonathan David EDWARDS;GBR;hármasugrás;2
+1916;Marion BECKER-STEINER;FRG;gerelyhajítás;2
+1960;Vera KOLASHNIKOVA-KREPKINA;URS;távolugrás;1
+1996;Stefka KOSTADINOVA;BUL;magasugrás;1
+1936;Carl Ludwig Luz LONG;GER;távolugrás;2
+1932;William Waring MILLER;USA;rúdugrás;1
+1912;Hartmut BRIESENICK;GDR;súlylökés;1
+1960;Dorothy Ada SHIRLEY;GBR;magasugrás;2
+2001;Toby STEVENSON;USA;rúdugrás;2
+1926;Harold Vincent CONNOLLY;USA;kalapácsvetés;1
+1961;Wolfgang REINHARDT;EUA;rúdugrás;2
+1936;Marja Jadwiga KWASNIEWSKA-MALESZEWSKA;POL;gerelyhajítás;1
+2000;Tatiana GRIGORIEVA;AUS;rúdugrás;2
+2012;Betty HEIDLER;GER;kalapácsvetés;1
+2000;Yelena YELESINA;RUS;magasugrás;1
+2001;Joachim Broechner OLSEN;DEN;súlylökés;2
+1968;Yanis LUSIS;URS;gerelyhajítás;1
+1936;Gerhard (Gerd) STÖCK;GER;súlylökés;1
+1980;Valeri PODLUZHNYI;URS;távolugrás;1
+1996;Chioma AJUNWA;NGR;távolugrás;1
+1980;Aleksandr BARYSHNIKOV;URS;súlylökés;2
+1928;Halina KONOPACKA;POL;diszkoszvetés;1
+1996;Oleksandr BAGACH;UKR;súlylökés;1
+1922;Yvette Winefred WILLIAMS;NZL;távolugrás;1
+1912;Jörg DREHMEL;GDR;hármasugrás;2
+2001;Anna ROGOWSKA;POL;rúdugrás;1
+2000;Tatyana KOTOVA;RUS;távolugrás;1
+1912;Robert Lloyd SEAGREN;USA;rúdugrás;2
+1928;Olav SUNDE;NOR;gerelyhajítás;1
+1916;Aleksei SPIRIDONOV;URS;kalapácsvetés;2
+2001;Elena ISINBAEVA;RUS;rúdugrás;1
+1980;Viktor RASHCHUPKIN;URS;diszkoszvetés;1
+1926;Willie B, WHITE;USA;távolugrás;2
+1996;Ilke WYLUDDA;GER;diszkoszvetés;1
+1980;Luis DELIS;CUB;diszkoszvetés;1
+1936;Dorothy Beatrice J, ODAM-TYLER;GBR;magasugrás;2
+2008;Vadim DEVYATOVSKIY;BLR;kalapácsvetés;2
+2001;Timothy MACK;USA;rúdugrás;1
+1908;Martin SHERIDAN;USA;diszkoszvetés;1
+1912;Bertil UGGLA;SWE;rúdugrás;1
+2012;Will CLAYE;USA;távolugrás;1
+2008;Phillips IDOWU;GBR;hármasugrás;2
+1960;Valeri BRUMEL;URS;magasugrás;2
+1926;Charles Everett DUMAS;USA;magasugrás;1
+1996;Trine HATTESTAD;NOR;gerelyhajítás;1
+1896;Evangelos DAMASKOS;GRE;rúdugrás;1
+1932;Ellen BRAUMÜLLER;GER;gerelyhajítás;2
+1908;Merritt Hayward GIFFIN;USA;diszkoszvetés;2
+1912;Kathryn Joan SCHMIDT;USA;gerelyhajítás;1
+1928;Mikio ODA;JPN;hármasugrás;1
+1912;Dwight Edwin STONES;USA;magasugrás;1
+1912;Heidemarie ROSENDAHL;FRG;távolugrás;1
+1908;John BILLER;USA;helyből magasugrás;1
+2000;Virgilijus ALEKNA;LTU;diszkoszvetés;1
+2000;Lars RIEDEL;GER;diszkoszvetés;2
+1912;Ludvik DANEK;TCH;diszkoszvetés;1
+1918;Fortune Edward GORDIEN;USA;diszkoszvetés;1
+1908;Konstantinos TSICLITIRAS;GRE;helyből magasugrás;2
+1916;Udo BEYER;GDR;súlylökés;1
+1968;Nelson PRUDENCIO;BRA;hármasugrás;2
+1912;L,Jay SILVESTER;USA;diszkoszvetés;2
+1928;Lillian COPELAND;USA;diszkoszvetés;2
+1926;Viktor TSYBULENKO;URS;gerelyhajítás;1
+2008;Ibrahim CAMEJO;CUB;távolugrás;1
+1932;Lillian COPELAND;USA;diszkoszvetés;1
+1921;Glenn GRAHAM;USA;rúdugrás;2
+1900;Meyer PRINSTEIN;USA;hármasugrás;1
+1988;Romas UBARTAS;URS;diszkoszvetés;2
+2012;Elena ISINBAEVA;RUS;rúdugrás;1
+1921;Gunnar LINDSTRÖM;SWE;gerelyhajítás;2
+1922;Ragnar LUNDBERG;SWE;rúdugrás;1
+1996;Oleksiy KRYKUN;UKR;kalapácsvetés;1
+1996;Astrid KUMBERNUSS;GER;súlylökés;1
+1901;Nicolaos GEORGANDAS;GRE;diszkoszvetés;1
+1928;Patrick O'CALLAGHAN;IRL;kalapácsvetés;1
+1901;Leroy SAMSE;USA;rúdugrás;2
+1996;John GODINA;USA;súlylökés;2
+1992;Javier SOTOMAYOR;CUB;magasugrás;1
+1988;Werner GÜNTHÖR;SUI;súlylökés;1
+1912;Benjamin W, ADAMS;USA;helyből távolugrás;1
+1920;Edwin MYERS;USA;rúdugrás;1
+1968;Miloslava REZKOVA-HUBNER;TCH;magasugrás;1
+1996;Andrei TIVONTCHIK;GER;rúdugrás;1
+1900;Alvin KRAENZLEIN;USA;távolugrás;1
+2000;Nicola VIZZONI;ITA;kalapácsvetés;2
+2008;Elena ISINBAEVA;RUS;rúdugrás;1
+2012;Anna CHICHEROVA;RUS;magasugrás;1
+1912;Yuri TARMAK;URS;magasugrás;1
+1928;Levi B, CASEY;USA;hármasugrás;2
+2008;Blanka VLASIC;CRO;magasugrás;2
+1960;Eeles Enok LANDSTRÖM;FIN;rúdugrás;1
+1996;Vasiliy KAPTYUKH;BLR;diszkoszvetés;1
+2000;Jan ZELEZNY;CZE;gerelyhajítás;1
+1961;Tamara PRESS;URS;diszkoszvetés;1
+1908;Martin SHERIDAN;USA;klasszikus stílusú diszkoszvetés;1
+1968;Richard Douglas FOSBURY;USA;magasugrás;1
+1961;Oleg FEDOSEEV;URS;hármasugrás;2
+2008;Evgeny LUKYANENKO;RUS;rúdugrás;2
+1901;William Wesley COE;USA;súlylökés;2
+1896;Robert GARRETT;USA;diszkoszvetés;1
+1928;Silvio M, CATOR;HAI;távolugrás;2
+1936;Earle Elmer MEADOWS;USA;rúdugrás;1
+1901;Louis WILKINS;USA;rúdugrás;1
+1961;Vilmos VARJU;HUN;súlylökés;1
+2001;Virgilijus ALEKNA;LTU;diszkoszvetés;1
+2012;Antti RUUSKANEN;FIN;gerelyhajítás;1
+1928;Charles English MCGINNIS;USA;rúdugrás;1
+1926;Marianne WERNER-SCHULZE-ENTRUP;EUA;súlylökés;1
+1926;Robert RICHARDS;USA;rúdugrás;1
+1918;Giuseppe TOSI;ITA;diszkoszvetés;2
+1988;Tapio KORJUS;FIN;gerelyhajítás;1
+1960;Richard Aldrich BABKA;USA;diszkoszvetés;2
+1960;Vladimir GORYAEV;URS;hármasugrás;2
+1928;Mildred Olive WILEY;USA;magasugrás;1
+1932;Ruth OSBURN;USA;diszkoszvetés;2
+1920;Paavo JAALE-JOHANSSON;FIN;gerelyhajítás;1
+1926;Nadezhda KONYAEVA;URS;gerelyhajítás;1
+2008;Tomasz MAJEWSKI;POL;súlylökés;1
+2000;Iryna YATCHENKO;BLR;diszkoszvetés;1
+1996;Stephen James SMITH;GBR;magasugrás;1
+2001;Hrysopiyi DEVETZI;GRE;hármasugrás;2
+1996;Jean GALFIONE;FRA;rúdugrás;1
+1928;Bela SZEPES-STRAUCH;HUN;gerelyhajítás;2
+1961;Ralph Harold BOSTON;USA;távolugrás;2
+1908;Eric LEMMING;SWE;szabad stílusú gerelyhajítás;1
+1921;Lee BARNES;USA;rúdugrás;1
+1921;William De Hart HUBBARD;USA;távolugrás;1
+1996;Ellina ZVEREVA;BLR;diszkoszvetés;1
+1900;Irving BAXTER;USA;rúdugrás;1
+1996;Xinmei SUI;CHN;súlylökés;2
+1928;John H, KUCK;USA;súlylökés;1
+1961;Mihaela PENES;ROU;gerelyhajítás;1
+1912;Arnie ROBINSON;USA;távolugrás;1
+1996;Balazs KISS;HUN;kalapácsvetés;1
+1968;George Roger WOODS;USA;súlylökés;2
+1968;Giuseppe GENTILE;ITA;hármasugrás;1
+1932;Eino PENTTILA;FIN;gerelyhajítás;1
+1961;Irena SZEWINSKA;POL;távolugrás;2
+1932;Jadwiga WAJSOURNA;POL;diszkoszvetés;1
+1932;Jean SHILEY;USA;magasugrás;1
+1981;Gary HONEY;AUS;távolugrás;2
+1992;Galina ASTAFEI;ROU;magasugrás;2
+1992;Natalia SHIKOLENKO;EUN;gerelyhajítás;2
+1901;Lawson N, ROBERTSON;USA;helyből magasugrás;1
+1992;Maritza MARTEN;CUB;diszkoszvetés;1
+1980;Viktor SANEEV;URS;hármasugrás;2
+2008;Maurren Higa MAGGI;BRA;távolugrás;1
+1912;Ralph ROSE;USA;súlylökés;2
+1901;Joseph F, STADLER;USA;helyből magasugrás;2
+1988;Seppo Henrik RATY;FIN;gerelyhajítás;1
+1921;Sverre HANSEN;NOR;távolugrás;1
+2000;Olga KUZENKOVA;RUS;kalapácsvetés;2
+2012;Anita WLODARCZYK;POL;kalapácsvetés;2
+2012;Caterine IBARGUEN;COL;hármasugrás;2
+1912;Frank MURPHY;USA;rúdugrás;1
+1916;Hannu Juhani SIITONEN;FIN;gerelyhajítás;2
+2001;Matt HEMINGWAY;USA;magasugrás;2
+1968;Eduard GUSHCHIN;URS;súlylökés;1
+1921;Jonni MYYRÄ;FIN;gerelyhajítás;1
+1900;Rudolf BAUER;HUN;diszkoszvetés;1
+2012;Bjorn OTTO;GER;rúdugrás;2
+1918;Ann-Britt LEYMAN;SWE;távolugrás;1
+1901;Ray EWRY;USA;helyből magasugrás;1
+1926;Adhemar FERREIRA DA SILVA;BRA;hármasugrás;1
+1908;Cornelius WALSH;CAN;kalapácsvetés;1
+1922;Marianne WERNER-SCHULZE-ENTRUP;GER;súlylökés;2
+1918;John WINTER;AUS;magasugrás;1
+1961;Gyula ZSIVOTZKY;HUN;kalapácsvetés;2
+1960;Birute ZALOGAJTITE-KALEDENE;URS;gerelyhajítás;1
+1912;Randel Luvelle WILLIAMS;USA;távolugrás;1
+1988;Natalya LISOVSKAYA;URS;súlylökés;1
+1932;Simeon Galvez TORIBIO;PHI;magasugrás;1
+1918;James Emanuel FUCHS;USA;súlylökés;1
+1920;Vilho Immanuel TUULOS;FIN;hármasugrás;1
+1900;Frantisek JANDA;BOH;diszkoszvetés;2
+1988;Eric Randolph BARNES;USA;súlylökés;2
+1921;James K, BROOKER;USA;rúdugrás;1
+2008;Olena ANTONOVA;UKR;diszkoszvetés;1
+1961;Michelle Mary MASON-BROWN;AUS;magasugrás;2
+1921;Frederick Delmont TOOTELL;USA;kalapácsvetés;1
+2001;Jaroslav BABA;CZE;magasugrás;1
+1936;Jesse OWENS;USA;távolugrás;1
+2012;Gerd KANTER;EST;diszkoszvetés;1
+1901;Martin SHERIDAN;USA;diszkoszvetés;1
+1918;Bjorn Andreas PAULSON;NOR;magasugrás;2
+1916;Gabriele HINZMANN;GDR;diszkoszvetés;1
+1908;Francis C, IRONS;USA;távolugrás;1
+1922;Leonid SHCHERBAKOV;URS;hármasugrás;2
+1918;Thomas Theodore BRUCE;AUS;távolugrás;2
+1912;William David SCHMIDT;USA;gerelyhajítás;1
+1968;Sheila Hilary PARKIN-SHERWOOD;GBR;távolugrás;2
+1961;Pauli Lauri NEVALA;FIN;gerelyhajítás;1
+2008;Khotso MOKOENA;RSA;távolugrás;2
+1921;Pierre LEWDEN;FRA;magasugrás;1
+1932;Chuhei NAMBU;JPN;távolugrás;1
+1981;Arto HARKONEN;FIN;gerelyhajítás;1
+1912;Diana CHRISTOVA-YORGOVA;BUL;távolugrás;2
+1960;Dallas Crutcher III LONG;USA;súlylökés;1
+2000;Ivan PEDROSO;CUB;távolugrás;1
+1968;Valentina KOZYR;URS;magasugrás;1
+1992;Maksim TARASOV;EUN;rúdugrás;1
+2000;Arsi HARJU;FIN;súlylökés;1
+1988;Mei-Su LI;CHN;súlylökés;1
+1981;Florenta TACU-CRAICIUNESCU;ROU;diszkoszvetés;1
+1961;Tatyana SHCHELKANOVA;URS;távolugrás;1
+1988;Fatima WHITBREAD;GBR;gerelyhajítás;2
+1908;Cornelius LEAHY;GBR;magasugrás;1
+1960;Lia MANOLIU;ROU;diszkoszvetés;1
+1960;Nina ROMASHKOVA-PONOMAREVA;URS;diszkoszvetés;1
+1926;Irina BEGLYAKOVA;URS;diszkoszvetés;2
+1901;Ralph ROSE;USA;kalapácsvetés;1
+1936;Sueo OE;JPN;rúdugrás;1
+1992;Daniela COSTIAN;AUS;diszkoszvetés;1
+2012;Will CLAYE;USA;hármasugrás;2
+2012;Svetlana SHKOLINA;RUS;magasugrás;1
+1900;Ray EWRY;USA;helyből távolugrás;1
+2001;Irina SIMAGINA;RUS;távolugrás;2
+1922;Aleksandra CHUDINA;URS;távolugrás;2
+1912;Vasili KHMELEVSKY;URS;kalapácsvetés;1
+1996;Carl LEWIS;USA;távolugrás;1
+1992;Michael D, STULCE;USA;súlylökés;1
+1992;Javier GARCIA CHICO;ESP;rúdugrás;1
+2000;Hestrie CLOETE;RSA;magasugrás;2
+2001;Andreas THORKILDSEN;NOR;gerelyhajítás;1
+1921;Lemuel Clarence HOUSER;USA;súlylökés;1
+2008;Jennifer STUCZYNSKI;USA;rúdugrás;2
+1996;Jackie JOYNER-KERSEE;USA;távolugrás;1
+1988;Grigori EGOROV;URS;rúdugrás;1
+1912;Eva SURANOVA;TCH;távolugrás;1
+1912;Nadezhda CHIZHOVA;URS;súlylökés;1
+1922;Nina ROMASHKOVA-PONOMAREVA;URS;diszkoszvetés;1
+1896;Albert TYLER;USA;rúdugrás;2
+1996;Sarka KASPARKOVA;CZE;hármasugrás;1
+1926;Inese YAUNZEME;URS;gerelyhajítás;1
+1961;Valeri BRUMEL;URS;magasugrás;1
+2008;Aksana MIANKOVA;BLR;kalapácsvetés;1
+1936;Yrjo Jouko NIKKANEN;FIN;gerelyhajítás;2
+1928;Antero Lauro KIVI;FIN;diszkoszvetés;2
+1900;Josiah MCCRACKEN;USA;súlylökés;2
+1896;Miltiadis GOUSKOS;GRE;súlylökés;2
+2012;Oleksandr PYATNYTSYA;UKR;gerelyhajítás;2
+1961;Iolanda BALAS;ROU;magasugrás;1
+1936;Sulo BÄRLUND;FIN;súlylökés;2
+1916;Yordanka BLAGOEVA-DIMITROVA;BUL;magasugrás;1
+1918;Micheline OSTERMEYER;FRA;diszkoszvetés;1
+1988;Heike DRECHSLER;GDR;távolugrás;2
+1996;Eric Randolph BARNES;USA;súlylökés;1
+2001;Christian OLSSON;SWE;hármasugrás;1
+1992;James DOEHRING;USA;súlylökés;2
+1936;Luise KRÜGER;GER;gerelyhajítás;2
+1912;Ulrike MEYFARTH;FRG;magasugrás;1
+1908;Ray EWRY;USA;helyből távolugrás;1
+1996;Yoelvis QUESADA;CUB;hármasugrás;1
+1992;Michael Anthony POWELL;USA;távolugrás;2
+1961;Ludvik DANEK;TCH;diszkoszvetés;2
+1916;Wolfgang SCHMIDT;GDR;diszkoszvetés;2
+1980;Gerd WESSIG;GDR;magasugrás;1
+1928;Emil HIRSCHFELD;GER;súlylökés;1
+1900;Ray EWRY;USA;helyből magasugrás;1
+1961;Taisiya CHENCHIK;URS;magasugrás;1
+1932;Henri Jean LABORDE;USA;diszkoszvetés;2
+1981;David OTTLEY;GBR;gerelyhajítás;2
+1968;Romuald KLIM;URS;kalapácsvetés;2
+1981;Mihaela LOGHIN;ROU;súlylökés;2
+1981;Jian-Hua ZHU;CHN;magasugrás;1
+2001;Osleidys MENENDEZ;CUB;gerelyhajítás;1
+1992;Frank RUTHERFORD;BAH;hármasugrás;1
+1988;Gennadi AVDEENKO;URS;magasugrás;1
+1916;Helena FIBINGEROVA;TCH;súlylökés;1
+2008;Valerie VILI;NZL;súlylökés;1
+1912;Yanis LUSIS;URS;gerelyhajítás;2
+1960;Walter KRÜGER;EUA;gerelyhajítás;2
+2008;Virgilijus ALEKNA;LTU;diszkoszvetés;1
+2000;Nick HYSONG;USA;rúdugrás;1
+1916;Arnie ROBINSON;USA;távolugrás;1
+1908;J,Garfield MACDONALD;CAN;hármasugrás;2
+1996;James BECKFORD;JAM;távolugrás;2
+1912;Armas Rudolf TAIPALE;FIN;kétkezes diszkoszvetés;1
+1968;Eva JANKO-EGGER;AUT;gerelyhajítás;1
+1908;Harry Franklin PORTER;USA;magasugrás;1
+1908;John Carlyle GARRELS;USA;súlylökés;1
+1992;Carl LEWIS;USA;távolugrás;1
+1960;Irvin ROBERSON;USA;távolugrás;2
+1988;Hollis CONWAY;USA;magasugrás;2
+1912;Anatoli BONDARCHUK;URS;kalapácsvetés;1
+1922;Cyrus C, Jr, YOUNG;USA;gerelyhajítás;1
+1926;Elzbieta DUNSKA-KRZESINSKA;POL;távolugrás;1
+1968;Valentin GAVRILOV;URS;magasugrás;1
+2001;Svetlana FEOFANOVA;RUS;rúdugrás;2
+1922;Karl STORCH;GER;kalapácsvetés;2
+1918;Francis James DELANEY;USA;súlylökés;2
+1928;Edmund Franklin BLACK;USA;kalapácsvetés;1
+2012;Brittney REESE;USA;távolugrás;1
+1988;Michael Anthony POWELL;USA;távolugrás;2
+1920;Harold MULLER;USA;magasugrás;2
+1981;Juha TIAINEN;FIN;kalapácsvetés;1
+1981;David Lester LAUT;USA;súlylökés;1
+1928;Lemuel Clarence HOUSER;USA;diszkoszvetés;1
+1900;Thomas Truxton HARE;USA;kalapácsvetés;2
+2000;John GODINA;USA;súlylökés;1
+2012;Christina OBERGFOLL;GER;gerelyhajítás;2
+1932;Frans Wilhelmi PÖRHÖLÄ;FIN;kalapácsvetés;2
+1936;Ibolya CSAK;HUN;magasugrás;1
+2008;Tero PITKAMAKI;FIN;gerelyhajítás;1
+1901;John BILLER;USA;helyből távolugrás;1
+1922;Nina DUMBADZE;URS;diszkoszvetés;1
+1896;James CONNOLLY;USA;hármasugrás;1
+1928;Edward Barton HAMM;USA;távolugrás;1
+1960;Donald George BRAGG;USA;rúdugrás;1
+1918;Micheline OSTERMEYER;FRA;magasugrás;1
+1932;Chuhei NAMBU;JPN;hármasugrás;1
+2001;Nadine KLEINERT;GER;súlylökés;2
+1908;Matthew J, MCGRATH;USA;kalapácsvetés;2
+1960;Dana INGROVA-ZATOPKOVA;TCH;gerelyhajítás;2
+1988;Alexandre KOVALENKO;URS;hármasugrás;1
+1981;Johanna Luann HUNTLEY;USA;magasugrás;1
+1928;Ossian E, SKIÖLD;SWE;kalapácsvetés;2
+1912;Argentina MENIS;ROU;diszkoszvetés;2
+1918;Dorothy Beatrice J, ODAM-TYLER;GBR;magasugrás;2
+1926;Mildred Louise MCDANIEL;USA;magasugrás;1
+1960;Ralph Harold BOSTON;USA;távolugrás;1
+1912;Viktor SANEEV;URS;hármasugrás;1
+1912;Frank Thayer NELSON;USA;rúdugrás;2
+2001;Yipsi MORENO;CUB;kalapácsvetés;2
+1960;Elzbieta DUNSKA-KRZESINSKA;POL;távolugrás;2
+2000;Denis KAPUSTIN;RUS;hármasugrás;1
+1926;Jiri SKOBLA;TCH;súlylökés;1
+1960;Tadeusz RUT;POL;kalapácsvetés;1
+1908;Arne HALSE;NOR;gerelyhajítás;2
+2000;Fiona MAY;ITA;távolugrás;2
+1926;William Patrick Jr, O'Brien;USA;súlylökés;1
+1992;Andrey ABDUVALIEV;EUN;kalapácsvetés;1
+1961;Renate GARISCH-CULMBERGER-BOY;EUA;súlylökés;2
+1920;R, William E, PETERSSON;SWE;távolugrás;1
+1996;Inessa KRAVETS;UKR;hármasugrás;1
+1912;George Leslie HORINE;USA;magasugrás;1
+1968;Lazar LOVASZ;HUN;kalapácsvetés;1
+1900;Lajos GÖNCZY;HUN;magasugrás;1
+1900;Emile TORCHEBOEUF;FRA;helyből távolugrás;1
+2000;Yoel GARCIA;CUB;hármasugrás;2
+1901;Charles KING;USA;helyből hármasugrás;2
+1918;Lily Marie Louise CARLSTEDT-KELSBY;DEN;gerelyhajítás;1
+2000;Heike DRECHSLER;GER;távolugrás;1
+1901;Joseph F, STADLER;USA;helyből hármasugrás;1
+1936;Karl HEIN;GER;kalapácsvetés;1
+1936;Gordon Glover DUNN;USA;diszkoszvetés;2
+1896;Robert GARRETT;USA;távolugrás;2
+1992;Svetlana KRIVELYOVA;EUN;súlylökés;1
+1896;William Welles HOYT;USA;rúdugrás;1
+1912;Konstantinos TSICLITIRAS;GRE;helyből távolugrás;1
+1996;Vladimir DUBROVSHCHIK;BLR;diszkoszvetés;2
+1981;Alessandro ANDREI;ITA;súlylökés;1
+1900;Josiah MCCRACKEN;USA;kalapácsvetés;1
+2012;Olga RYPAKOVA;KAZ;hármasugrás;1
+2012;Tatyana LYSENKO;RUS;kalapácsvetés;1
+2000;Anastasia KELESIDOU;GRE;diszkoszvetés;2
+1961;John Curtis THOMAS;USA;magasugrás;2
+1988;Kristo Gantchev MARKOV;BUL;hármasugrás;1
+1992;Viatcheslav LYKHO;EUN;súlylökés;1
+1896;Sotirios VERSIS;GRE;diszkoszvetés;1
+1928;Sabin William CARR;USA;rúdugrás;1
+2001;Anastasia KELESIDOU;GRE;diszkoszvetés;2
+1961;Ingrid LOTZ;EUA;diszkoszvetés;2
+1916;Dwight Edwin STONES;USA;magasugrás;1
+1936;Naoto TAJIMA;JPN;távolugrás;1
+1908;John Jesus FLANAGAN;USA;kalapácsvetés;1
+1968;Ludvik DANEK;TCH;diszkoszvetés;1
+1912;Calvin David BRICKER;CAN;távolugrás;2
+1918;Ruhi SARIALP;TUR;hármasugrás;1
+1926;Charles Michael PORTER;AUS;magasugrás;2
+1936;Gerhard (Gerd) STÖCK;GER;gerelyhajítás;1
+1936;William Kenneth CARPENTER;USA;diszkoszvetés;1
+1912;Wladyslaw KOMAR;POL;súlylökés;1
+1932;Edward Lansing GORDON;USA;távolugrás;1
+1928;Carolina Anna GISOLF;NED;magasugrás;2
+2008;Germaine MASON;GBR;magasugrás;2
+2012;Tomasz MAJEWSKI;POL;súlylökés;1
+2000;Mirella MANIANI-TZELILI;GRE;gerelyhajítás;2
+1926;Robert Allen GUTOWSKI;USA;rúdugrás;2
+1960;Johanna LÜTTGE-HÜBNER;EUA;súlylökés;2
+1926;Nadezhda KHNYKINA-DVALISHVILI;URS;távolugrás;1
+1918;George Gordon AVERY;AUS;hármasugrás;2
+1918;Olga GYARMATI;HUN;távolugrás;1
+1980;Brigitte WUJAK;GDR;távolugrás;2
+2012;Ehsan HADADI;IRI;diszkoszvetés;2
+1980;Evelin SCHLAAK-JAHL;GDR;diszkoszvetés;1
+1981;Leslie Jean DENIZ;USA;diszkoszvetés;2
+1918;Noemi SIMONETTO DE PORTELA;ARG;távolugrás;2
+1901;Garrett SERVISS;USA;magasugrás;2
+1992;Igor TRANDENKOV;EUN;rúdugrás;2
+1920;Urho Pellervo PELTONEN;FIN;gerelyhajítás;2
+1980;Saida GUNBA;URS;gerelyhajítás;2
+2001;Francoise MBANGO ETONE;CMR;hármasugrás;1
+1900;Irving BAXTER;USA;helyből hármasugrás;2
+1992;Patrick SJÖBERG;SWE;magasugrás;2
+1908;Ed ARCHIBALD;CAN;rúdugrás;1
+1916;Jacek WSZOLA;POL;magasugrás;1
+1912;Richard Leslie BYRD;USA;diszkoszvetés;2
+1960;William Henry NIEDER;USA;súlylökés;1
+1988;Rolf DANNEBERG;FRG;diszkoszvetés;1
+1981;Kristiina LILLAK;FIN;gerelyhajítás;2
+1960;Tamara PRESS;URS;súlylökés;1
+1920;Basil BENNET;USA;kalapácsvetés;1
+1932;Robert VAN OSDEL;USA;magasugrás;2
+1916;Rosemarie WITSCHAS-ACKERMANN;GDR;magasugrás;1
+2012;Darya PISHCHALNIKOVA;RUS;diszkoszvetés;2
+1901;Robert STANGLAND;USA;távolugrás;1
+1901;Meyer PRINSTEIN;USA;távolugrás;1
+1992;Jürgen SCHULT;GER;diszkoszvetés;2
+2008;Piotr MALACHOWSKI;POL;diszkoszvetés;2
+1968;Marita LANGE;GDR;súlylökés;2
+1980;Ute HOMMOLA;GDR;gerelyhajítás;1
+2001;Yumileidi CUMBA;CUB;súlylökés;1
+1926;Marlene AHRENS;CHI;gerelyhajítás;2
+2000;Jai TAURIMA;AUS;távolugrás;2
+1922;Meredith Charles GOURDINE;USA;távolugrás;2
+1900;Robert GARRETT;USA;súlylökés;1
+1916;Kathryn Joan SCHMIDT;USA;gerelyhajítás;1
+1916;John Gates POWELL;USA;diszkoszvetés;1
+1916;Viktor SANEEV;URS;hármasugrás;1
+1961;Klaus LEHNERTZ;EUA;rúdugrás;1
+1922;Elizaveta BAGRYANTSEVA;URS;diszkoszvetés;2
+1980;Svetlana KRACHEVSKAIA;URS;súlylökés;2
+2000;Sergey MAKAROV;RUS;gerelyhajítás;1
+1988;Kathrin NEIMKE;GDR;súlylökés;2
+1996;Niki BAKOGIANNI;GRE;magasugrás;2
+1992;Heike DRECHSLER;GER;távolugrás;1
+2001;Koji MUROFUSHI;JPN;kalapácsvetés;1
+1996;Inha BABAKOVA;UKR;magasugrás;1
+1981;Keith CONNOR;GBR;hármasugrás;1
+2000;Yanina KAROLCHIK;BLR;súlylökés;1
+2012;Yarisley SILVA;CUB;rúdugrás;2
+1960;John Curtis THOMAS;USA;magasugrás;1
+1918;Erkki Olavi KATAJA;FIN;rúdugrás;2
+1936;Kaarlo Kalervo TOIVONEN;FIN;gerelyhajítás;1
+1912;Elmer Konstantin NIKLANDER;FIN;kétkezes súlylökés;1
+2008;Yipsi MORENO;CUB;kalapácsvetés;2
+1981;Kenth ELDEBRINK;SWE;gerelyhajítás;1
+2000;Stacy DRAGILA;USA;rúdugrás;1
+1926;Fortune Edward GORDIEN;USA;diszkoszvetés;2
+1992;Igor NIKOULINE;EUN;kalapácsvetés;1
+1988;Jan ZELEZNY;TCH;gerelyhajítás;2
+1921;Edward Orval GOURDIN;USA;távolugrás;2
+2000;Maksim TARASOV;RUS;rúdugrás;1
+1920;Elmer Konstantin NIKLANDER;FIN;diszkoszvetés;1
+1901;Charles KING;USA;helyből távolugrás;2
+1896;Alexandre TUFFERI;FRA;hármasugrás;2
+1981;John Gates POWELL;USA;diszkoszvetés;1
+1918;Adolfo CONSOLINI;ITA;diszkoszvetés;1
+1968;Ralph Harold BOSTON;USA;távolugrás;1
+1961;Uwe BEYER;EUA;kalapácsvetés;1
+1916;Randel Luvelle WILLIAMS;USA;távolugrás;2
+1908;Daniel KELLY;USA;távolugrás;2
+1912;Gustav LINDBLOM;SWE;hármasugrás;1
+1928;James Hunt CORSON;USA;diszkoszvetés;1
+2008;Andreas THORKILDSEN;NOR;gerelyhajítás;1
+1968;Gyula ZSIVOTZKY;HUN;kalapácsvetés;1
+1912;Alma Wilfred RICHARDS;USA;magasugrás;1
+1908;Calvin David BRICKER;CAN;távolugrás;1
+2008;Hrysopiyi DEVETZI;GRE;hármasugrás;1
+1916;Aleksandr BARYSHNIKOV;URS;súlylökés;1
+1928;Ruth A, SVEDBERG;SWE;diszkoszvetés;1
+1932;Mildred DIDRIKSON;USA;magasugrás;2
+1988;Diana GANSKY;GDR;diszkoszvetés;2
+1912;Ivanka Mikailova CHRISTOVA-TODOROVA;BUL;súlylökés;1
+1916;Miklos NEMETH;HUN;gerelyhajítás;1
+2001;Zoltan KOVAGO;HUN;diszkoszvetés;2
+2012;Evgeniia KOLODKO;RUS;súlylökés;2
+1912;Hans LIESCHE;GER;magasugrás;2
+1980;Sara SIMEONI;ITA;magasugrás;1
+2008;Natallia MIKHNEVICH;BLR;súlylökés;2
+1960;Alfred OERTER;USA;diszkoszvetés;1
+1968;Viktor SANEEV;URS;hármasugrás;1
+1900;Patrick Joseph LEAHY;GBR;távolugrás;1
+1980;Imrich BUGAR;TCH;diszkoszvetés;2
+1921;Thomas John LIEB;USA;diszkoszvetés;1
+1996;Lance Earl DEAL;USA;kalapácsvetés;2
+1912;Stefan JUNGE;GDR;magasugrás;2
+1968;Jorma Viljo Palaavi KINNUNEN;FIN;gerelyhajítás;2
+1916;Gheorghe MEGELEA;ROU;gerelyhajítás;1
+1916;Sara SIMEONI;ITA;magasugrás;2
+1918;Kaisa PARVIAINEN;FIN;gerelyhajítás;2
+2012;Mutaz Essa BARSHIM;QAT;magasugrás;1
+2001;Natalya SADOVA;RUS;diszkoszvetés;1
+1992;Romas UBARTAS;LTU;diszkoszvetés;1
+1928;Ethel CATHERWOOD;CAN;magasugrás;1
+1908;Charles JACOBS;USA;rúdugrás;1
+1918;Stephen Andrew SEYMOUR;USA;gerelyhajítás;2
+1936;Cornelius Cooper JOHNSON;USA;magasugrás;1
+1916;Gregory JOY;CAN;magasugrás;2
+1980;Wolfgang HANISCH;GDR;gerelyhajítás;1
+1960;Tamara PRESS;URS;diszkoszvetés;2
+1960;Robert SHAVLAKADZE;URS;magasugrás;1
+1912;Armas Rudolf TAIPALE;FIN;diszkoszvetés;1
+1932;Kenkichi OSHIMA;JPN;hármasugrás;1
+2000;Lawrence JOHNSON;USA;rúdugrás;2
+1992;Seppo Henrik RATY;FIN;gerelyhajítás;2
+1912;Patrick MCDONALD;USA;súlylökés;1
+1916;Lidia ALFEEVA;URS;távolugrás;1
+1912;Ralph ROSE;USA;kétkezes súlylökés;1
+1936;Elfriede KAUN;GER;magasugrás;1
+1922;Jozsef CSERMAK;HUN;kalapácsvetés;1
+1926;Nina ROMASHKOVA-PONOMAREVA;URS;diszkoszvetés;1
+1968;Nadezhda CHIZHOVA;URS;súlylökés;1
+1912;Patrick MCDONALD;USA;kétkezes súlylökés;2
+1936;Hans WOELLKE;GER;súlylökés;1
+1912;Elmer Konstantin NIKLANDER;FIN;kétkezes diszkoszvetés;2
+2012;Elena SOKOLOVA;RUS;távolugrás;2
+1918;Imre NEMETH;HUN;kalapácsvetés;1
+1918;Arne AHMAN;SWE;hármasugrás;1
+1961;James Randel MATSON;USA;súlylökés;2
+1912;Harry Stoddard BABCOCK;USA;rúdugrás;1
+1928;Herman Harold BRIX;USA;súlylökés;2
+2001;Esref APAK;TUR;kalapácsvetés;2
+1922;Darrow Clarence HOOPER;USA;súlylökés;2
+1980;Jutta KIRST;GDR;magasugrás;1
+1921;Vilho Immanuel TUULOS;FIN;hármasugrás;1
+2001;Stefan HOLM;SWE;magasugrás;1
+1912;Ilona GUSENBAUER-MAJDAN;AUT;magasugrás;1
+1968;James Randel MATSON;USA;súlylökés;1
+1918;Hermine (Herma) BAUMA;AUT;gerelyhajítás;1
+2008;Irving Jahir SALADINO ARANDA;PAN;távolugrás;1
+2000;Frantz KRUGER;RSA;diszkoszvetés;1
+1900;Carl Albert ANDERSEN;NOR;rúdugrás;1
+1960;Viktor TSYBULENKO;URS;gerelyhajítás;1
+1981;Valeria (Vali) IONESCU;ROU;távolugrás;2
+1922;Shirley CAWLEY;GBR;távolugrás;1
+1901;Samuel JONES;USA;magasugrás;1
+2008;Primoz KOZMUS;SLO;kalapácsvetés;1
+1988;Igor LAPSHIN;URS;hármasugrás;2
+1918;Ine SCHÄFFER-MAYER;AUT;súlylökés;1
+1981;Anisoara CUSMIR-STANCIU;ROU;távolugrás;1
+1920;Erik ABRAHAMSSON;SWE;távolugrás;1
+1908;Eric LEMMING;SWE;gerelyhajítás;1
+1921;Malcolm Cuthbert NOKES;GBR;kalapácsvetés;1
+2000;Tereza MARINOVA;BUL;hármasugrás;1
+1916;Antti Tapani KALLIOMÄKI;FIN;rúdugrás;2
+2008;Nelson EVORA;POR;hármasugrás;1
+1918;Jacqueline MAZEAS;FRA;diszkoszvetés;1
+1918;Robert RICHARDS;USA;rúdugrás;1
+1912;Yordanka BLAGOEVA-DIMITROVA;BUL;magasugrás;2
+1918;Owen Guinn SMITH;USA;rúdugrás;1
+1932;Duncan MCNAUGHTON;CAN;magasugrás;1
+1918;Ivan GUBIJAN;YUG;kalapácsvetés;2
+1996;Natalya SADOVA;RUS;diszkoszvetés;2
+1918;Micheline OSTERMEYER;FRA;súlylökés;1
+1920;Carl Johan LIND;SWE;kalapácsvetés;2
+1992;Zhihong HUANG;CHN;súlylökés;2
+1968;Liselotte (Liesel) WESTERMANN;FRG;diszkoszvetés;2
+1908;Martin SHERIDAN;USA;helyből távolugrás;1
+1908;Otto NILSSON;SWE;gerelyhajítás;1
+1916;Frank WARTENBERG;GDR;távolugrás;1
+1926;Jorma Rainer VALKAMA;FIN;távolugrás;1
+1980;Tatiana KOLPAKOVA;URS;távolugrás;1
+2008;Ivan TSIKHAN;BLR;kalapácsvetés;1
+2000;Ellina ZVEREVA;BLR;diszkoszvetés;1
+1961;Alfred OERTER;USA;diszkoszvetés;1
+2008;Svetlana FEOFANOVA;RUS;rúdugrás;1
+1921;Ralph Gorman HILLS;USA;súlylökés;1
+1922;Adhemar FERREIRA DA SILVA;BRA;hármasugrás;1
+1901;Charles DVORAK;USA;rúdugrás;1
+1980;Joao Carlos DE OLIVEIRA;BRA;hármasugrás;1
+1932;Mildred DIDRIKSON;USA;gerelyhajítás;1
+1922;Arnaldo DEVONISH;VEN;hármasugrás;1
+2012;Fabrizio DONATO;ITA;hármasugrás;1
+1936;Mathilde (Tilly) FLEISCHER;GER;gerelyhajítás;1
+1981;Mike CONLEY;USA;hármasugrás;2
+1912;Clarence Chester CHILDS;USA;kalapácsvetés;1
+2000;Sergey KLIUGIN;RUS;magasugrás;1
+1968;Claus SCHIPROWSKI;FRG;rúdugrás;2
+1968;Bob BEAMON;USA;távolugrás;1
+1900;Lewis Pendleton SHELDON;USA;hármasugrás;1
+2008;Gerd KANTER;EST;diszkoszvetés;1
+1922;Elena GORCHAKOVA;URS;gerelyhajítás;1
+2001;Hestrie CLOETE;RSA;magasugrás;2
+1980;Lutz DOMBROWSKI;GDR;távolugrás;1
+2012;Keshorn WALCOTT;TTO;gerelyhajítás;1
+1988;Martina HELLMANN;GDR;diszkoszvetés;1
+2012;Erik KYNARD;USA;magasugrás;2
+1900;Lewis Pendleton SHELDON;USA;helyből magasugrás;1
+1988;Stefka KOSTADINOVA;BUL;magasugrás;2
+1916;Yevgeni MIRONOV;URS;súlylökés;2
+1980;Tatiana SKACHKO;URS;távolugrás;1
+2012;Olha SALADUHA;UKR;hármasugrás;1
+1980;Sergei LITVINOV;URS;kalapácsvetés;2
+1912;Georg ABERG;SWE;hármasugrás;2
+2001;John MOFFITT;USA;távolugrás;2
+2012;Valerie ADAMS;NZL;súlylökés;1
+1918;Alice Marie COACHMAN;USA;magasugrás;1
+1916;Evelin SCHLAAK-JAHL;GDR;diszkoszvetés;1
+1921;Eugene OBERST;USA;gerelyhajítás;1
+1996;Igor TRANDENKOV;RUS;rúdugrás;2
+1988;Jürgen SCHULT;GDR;diszkoszvetés;1
+2000;Steve BACKLEY;GBR;gerelyhajítás;2
+1968;Robert Lloyd SEAGREN;USA;rúdugrás;1
+1908;Edward Tiffin COOKE;USA;rúdugrás;1
+2008;Andrey SILNOV;RUS;magasugrás;1
+1981;Gael MULHALL-MARTIN;AUS;súlylökés;1
+1981;Alfredrick Alphonzo JOYNER;USA;hármasugrás;1
+1926;Igor KASHKAROV;URS;magasugrás;1
+1968;Viorica VISCOPOLEANU;ROU;távolugrás;1
+2000;Astrid KUMBERNUSS;GER;súlylökés;1
+1992;Joe GREENE;USA;távolugrás;1
+2012;Raphael HOLZDEPPE;GER;rúdugrás;1
+1960;Vasili RUDENKOV;URS;kalapácsvetés;1
+2001;Tatyana LEBEDEVA;RUS;hármasugrás;1
+1992;Inessa KRAVETS;EUN;távolugrás;2
+2012;Jennifer SUHR;USA;rúdugrás;1
+1926;Olga FIKOTOVA-CONNOLLY;TCH;diszkoszvetés;1
+2000;Oana PANTELIMON;ROU;magasugrás;1
+1992;Kathrin NEIMKE;GER;súlylökés;1
+2008;Christian CANTWELL;USA;súlylökés;2
+1901;Daniel FRANK;USA;távolugrás;2
+1936;Delos Packard THURBER;USA;magasugrás;1
+1926;Anatoli SAMOTSVETOV;URS;kalapácsvetés;1
+2008;Ainars KOVALS;LAT;gerelyhajítás;2
+1916;Catherine Laverne MCMILLAN;USA;távolugrás;2
+1980;Maria VERGOVA-PETKOVA;BUL;diszkoszvetés;2
+1928;William Herbert DROEGEMUELLER;USA;rúdugrás;2
+1896;Ioannis PERSAKIS;GRE;hármasugrás;1
+1988;Dorothy Louise RITTER;USA;magasugrás;1
+1922;Robert RICHARDS;USA;rúdugrás;1
+1900;Richard SHELDON;USA;súlylökés;1
+1908;Ralph ROSE;USA;súlylökés;1
+1961;Viktor KRAVCHENKO;URS;hármasugrás;1
+2001;Marian OPREA;ROU;hármasugrás;2
+1901;Ray EWRY;USA;helyből hármasugrás;1
+1926;Mariya PISSAREVA;URS;magasugrás;1
+1961;Gergely KULCSAR;HUN;gerelyhajítás;2
+1896;James CONNOLLY;USA;távolugrás;1
+1992;Timothy FORSYTH;AUS;magasugrás;1
+1988;Tzvetanka Pavlova KHRISTOVA;BUL;diszkoszvetés;1
+1968;Angela NEMETH-RANKY;HUN;gerelyhajítás;1
+1900;James CONNOLLY;USA;hármasugrás;2
+1981;Klaus PLOGHAUS;FRG;kalapácsvetés;1
+1928;Claude Charles MENARD;FRA;magasugrás;1
+1960;Igor TER-OVANESYAN;URS;távolugrás;1
+1932;Eric SVENSSON;SWE;hármasugrás;2
+1896;Ioannis THEODOROPOULOS;GRE;rúdugrás;1
+1968;Alfred OERTER;USA;diszkoszvetés;1
+1988;Rodion GATAULLIN;URS;rúdugrás;2
+1988;Yuri TAMM;URS;kalapácsvetés;1
+1980;Dainis KULA;URS;gerelyhajítás;1
+1896;Robert GARRETT;USA;magasugrás;1
+1912;Albert Lovejoy GUTTERSON;USA;távolugrás;1
+1926;Tamara TYSHKEVICH;URS;súlylökés;1
+1908;Edvard LARSEN;NOR;hármasugrás;1
+2000;Larisa PELESHENKO;RUS;súlylökés;2
+1926;Janusz SIDLO;POL;gerelyhajítás;2
+1960;Earlene Dennis BROWN;USA;súlylökés;1
+1912;Platt ADAMS;USA;helyből távolugrás;2
+2001;Giuseppe GIBILISCO;ITA;rúdugrás;1
+1980;Ilona SCHOKNECHT-SLUPIANEK;GDR;súlylökés;1
+1900;Meyer PRINSTEIN;USA;távolugrás;2
+1936;Jadwiga WAJSOURNA;POL;diszkoszvetés;2
+1981;Ulrike MEYFARTH;FRG;magasugrás;1
+1921;Luis BRUNETO;ARG;hármasugrás;2
+2001;Aleksander TAMMERT;EST;diszkoszvetés;1
+2012;Yanfeng LI;CHN;diszkoszvetés;1
+1918;Herbert Paul Jr, DOUGLAS;USA;távolugrás;1
+1961;Frederick Morgan HANSEN;USA;rúdugrás;1
+1926;Gregory Curtis BELL;USA;távolugrás;1
+2008;Tia HELLEBAUT;BEL;magasugrás;1
+1928;Robert Wade KING;USA;magasugrás;1
+1996;Kenny HARRISON;USA;hármasugrás;1
+1920;Bo EKELUND;SWE;magasugrás;1
+1918;Edera CORDIALE-GENTILE;ITA;diszkoszvetés;2
+2012;Reese HOFFA;USA;súlylökés;1
+2000;Jonathan David EDWARDS;GBR;hármasugrás;1
+1920;Jonni MYYRÄ;FIN;gerelyhajítás;1
+1920;Folke JANSSON;SWE;hármasugrás;2
+2000;Adam NELSON;USA;súlylökés;2
+2012;Lijiao GONG;CHN;súlylökés;1
+2008;Christina OBERGFOLL;GER;gerelyhajítás;1
+1961;Igor TER-OVANESYAN;URS;távolugrás;1
+1912;Faina MELNIK;URS;diszkoszvetés;1
+2001;Adam NELSON;USA;súlylökés;1
+1901;Ralph ROSE;USA;súlylökés;1
+1920;Augustus POPE;USA;diszkoszvetés;1
+1922;Klavdiya TOCHENOVA;URS;súlylökés;1
+1960;Ronald Hugh MORRIS;USA;rúdugrás;2
+1981;Michael Scott TULLY;USA;rúdugrás;2
+1980;Maria COLON;CUB;gerelyhajítás;1
+2008;Anna CHICHEROVA;RUS;magasugrás;1
+1932;Frantisek DOUDA;TCH;súlylökés;1
+2000;Olena HOVOROVA;UKR;hármasugrás;1
+1968;Wolfgang NORDWIG;GDR;rúdugrás;1
+1981;Claudia LOSCH;FRG;súlylökés;1
+1926;Desmond Dalworth KOCH;USA;diszkoszvetés;1
+2008;Wenxiu ZHANG;CHN;kalapácsvetés;1
+1968;Klaus BEER;GDR;távolugrás;2
+1912;Matthew J, MCGRATH;USA;kalapácsvetés;1
+2012;David STORL;GER;súlylökés;2
+1996;Irina KHUDOROZHKINA;RUS;súlylökés;1
+1961;Romuald KLIM;URS;kalapácsvetés;1
+1912;Hans BAUMGARTNER;FRG;távolugrás;2
+2012;Janay DELOACH;USA;távolugrás;1
+1926;Egil DANIELSEN;NOR;gerelyhajítás;1
+1981;Earl Holmes BELL;USA;rúdugrás;1
+1918;Jozsef VARSZEGI;HUN;gerelyhajítás;1
+2001;Elena SLESARENKO;RUS;magasugrás;1
+1896;Ellery CLARK;USA;távolugrás;1
+1926;Georgios ROUBANIS;GRE;rúdugrás;1
+1992;Jackie JOYNER-KERSEE;USA;távolugrás;1
+1912;Nelson PRUDENCIO;BRA;hármasugrás;1
+1936;Alfred WARNGARD;SWE;kalapácsvetés;1
+1980;Udo BEYER;GDR;súlylökés;1
+1988;Sergei LITVINOV;URS;kalapácsvetés;1
+1922;Kenneth George WIESNER;USA;magasugrás;2
+1926;John Dale BENNETT;USA;távolugrás;2
+1936;Gisela MAUERMAYER;GER;diszkoszvetés;1
+1921;Vilho Aleksander NIITTYMAA;FIN;diszkoszvetés;2
+1996;Heli Orvokki RANTANEN;FIN;gerelyhajítás;1
+1912;Jan Eric JOHNSON;USA;rúdugrás;1
+1961;Elena GORCHAKOVA;URS;gerelyhajítás;1
+1932;Matti Kalervo SIPPALA;FIN;gerelyhajítás;2
+1908;Mikael M, DORIZAS;GRE;szabad stílusú gerelyhajítás;2
+1932;Leo Joseph SEXTON;USA;súlylökés;1
+1968;Lothar MILDE;GDR;diszkoszvetés;2
+1961;Marta ANTAL-RUDAS;HUN;gerelyhajítás;2
+1896;Panagiotis PARASKEVOPOULOS;GRE;diszkoszvetés;2
+1912;Rickard BRUCH;SWE;diszkoszvetés;1
+2001;Mirella MANIANI-TZELILI;GRE;gerelyhajítás;1
+1912;George Roger WOODS;USA;súlylökés;2
+1992;Igor ASTAPKOVICH;EUN;kalapácsvetés;2
+1928;Alfred Hilborn BATES;USA;távolugrás;1
+1916;James A, BUTTS;USA;hármasugrás;2
+1992;Silke RENK;GER;gerelyhajítás;1
+2000;Trine HATTESTAD;NOR;gerelyhajítás;1
+2001;Tatyana KOTOVA;RUS;távolugrás;1
+1918;William Samuel STEELE;USA;távolugrás;1
+1980;Tadeusz SLUSARSKI;POL;rúdugrás;1
+1901;Frederick ENGLEHARDT;USA;hármasugrás;2
+1922;William Patrick Jr, O'Brien;USA;súlylökés;1
+1916;Angela VOIGT;GDR;távolugrás;1
+1932;Harlow Phelps ROTHERT;USA;súlylökés;2
+1912;Marc Snowell WRIGHT;USA;rúdugrás;2
+1980;Urszula KIELAN;POL;magasugrás;2
+1916;Anatoli BONDARCHUK;URS;kalapácsvetés;1
+1936;David Donald ALBRITTON;USA;magasugrás;2
+1922;Jose TELLES DA CONCEICAO;BRA;magasugrás;1
+2012;Christian TAYLOR;USA;hármasugrás;1
+1921;Anthony William WINTER;AUS;hármasugrás;1
+1918;Wilbur Marvin THOMPSON;USA;súlylökés;1
+2012;Greg RUTHERFORD;GBR;távolugrás;1
+1936;Naoto TAJIMA;JPN;hármasugrás;1
+1960;Jozef SCHMIDT;POL;hármasugrás;1
+1920;Erik ALMLÖF;SWE;hármasugrás;1
+1981;Ria G, STALMAN;NED;diszkoszvetés;1
+2008;Tatyana LEBEDEVA;RUS;távolugrás;2
+1920;Harry LIVERSEDGE;USA;súlylökés;1
+1916;Nadezhda CHIZHOVA;URS;súlylökés;2
+1992;Heike HENKEL;GER;magasugrás;1
+1981;Patrick SJÖBERG;SWE;magasugrás;2
+1912;Urho Pellervo PELTONEN;FIN;kétkezes gerelyhajítás;1
+1981;Michael D'Andrea CARTER;USA;súlylökés;2
+1996;Lars RIEDEL;GER;diszkoszvetés;1
+2000;Roman SCHURENKO;UKR;távolugrás;1
+1968;Lia MANOLIU;ROU;diszkoszvetés;1
+1916;Maria VERGOVA-PETKOVA;BUL;diszkoszvetés;2
+1901;John DEWITT;USA;kalapácsvetés;2
+1928;Benjamen Van Doren HEDGES;USA;magasugrás;2
+1896;Robert GARRETT;USA;súlylökés;1
+1922;James Emanuel FUCHS;USA;súlylökés;1
+1996;Joe GREENE;USA;távolugrás;1
+2000;Kajsa BERGQVIST;SWE;magasugrás;1
+2012;Brigetta BARRETT;USA;magasugrás;2
+2001;Viktoriya STYOPINA;UKR;magasugrás;1
+1932;Mathilde (Tilly) FLEISCHER;GER;gerelyhajítás;1
+1922;Aleksandra CHUDINA;URS;gerelyhajítás;2
+1920;Frank FOSS;USA;rúdugrás;1
+1936;Erwin BLASK;GER;kalapácsvetés;2
+1912;Margitta HELMBOLD-GUMMEL;GDR;súlylökés;2
+1920;Carl JOHNSON;USA;távolugrás;2
