@@ -17,4 +17,4 @@ public static void Main()
 ```
 
 ## 🔎 **Hiba az ideiglenes megoldás nélkül**
-> **Hibakód:** CS5001 – "Program does not contain a static 'Main' method suitable for an entry point"
+**Hibakód:** CS5001 – "Program does not contain a static 'Main' method suitable for an entry point"
